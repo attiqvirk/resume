@@ -64,3 +64,22 @@
         font-size: 35px;
         padding-bottom: 2%;
     }
+/* .container{
+text-align: center;
+} */
+    .btn{
+        text-align: center;
+        color: #fff;
+        background-color: black;
+        width:100px;
+        height: 40px;
+        border-radius: 1;
+
+    }
+    .btn:hover{
+        color: #000;
+        background-color: #fff;
+       border: #000;
+
+    }
+    
