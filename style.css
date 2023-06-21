@@ -31,11 +31,12 @@
         text-align: center;
     }
     nav img{
-        width: 150px;
+        width: 110px;
     }
     .nav-links{
         flex: 1;
         text-align: right;
+    
     }
     .nav-links ul li{
         list-style: none;
@@ -48,4 +49,18 @@
         font-size: 13px;
         text-decoration: none;
     
+    }
+    .banner{
+        text-align: center;
+        color: #fff;
+        /* padding-left: 10%;
+        padding-right: 10%; */
+        font-size: 18px;
+        padding: 120px 120px;
+        
+    }
+    h2{
+        color: white;
+        font-size: 35px;
+        padding-bottom: 2%;
     }
